@@ -12,6 +12,7 @@
 .DS_Store
 logfile.txt
 storagefile
+dbfile
 
 # Used by dotenv library to load environment variables.
 # .env
